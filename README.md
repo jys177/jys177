@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noah, Young-sang cho
-- 👀 I’m interested in MSA, Cloud Developer
-- 🌱 I’m currently learning Spring F/W, React 
+- 👀 I’m interested in MSA And DevOps Developer
+- 🌱 I’m currently learning Spring F/W And React 
 
 <!---
 jys177/jys177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
