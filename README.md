@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noah, Young-sang cho
+- 👋 Hi, My name is Young-sang cho, NickName is Noah.
 - 👀 I’m interested in MSA And DevOps Developer
 - 🌱 I’m currently learning Spring F/W And React 
 
